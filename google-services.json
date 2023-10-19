@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578704972496",
+    "project_id": "push-bbbc3",
+    "storage_bucket": "push-bbbc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578704972496:android:094959092025de52fedcd5",
+        "android_client_info": {
+          "package_name": "com.maher17.pushnotifcationtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVAP4HJ6L7MbPt4lqQhAaB0KpPjGy0OWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
